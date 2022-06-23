@@ -38,7 +38,7 @@ mi_double <- 13
 14.5
 76.89
 
-### DOubles especiales
+### Doubles especiales
 -Inf
 Inf
 NaN
@@ -192,16 +192,16 @@ attributes(mi_factor_2)
 # Estructuras de control: if, for, while ----
 
 ## If ----
-nota <- 4.5
+nota <- 2.5
 
 #### Ejemplo 1
 if (nota >= 4.0) {
-  print("Felcitaciones, tuviste un desempeño excelente")
+  print("Felicitaciones, tuviste un desempeño excelente")
 } else if (nota >= 3.0 & nota < 4.0){
   print("Bien, aprobaste la materia")
 } else {
     print("Lo siento, tienes que repetir")
-  }
+}
 
 #### Ejemplo 2
 nota <- 4.5
@@ -236,3 +236,50 @@ for (nombre in nombres) {
     print(paste(nombre, apellido))
   }
 }
+
+### Ejemplo 3: break
+
+for (nombre in nombres) {
+  if (nombre == "Juan") {
+    break
+  } else {
+    print(nombre)
+  }
+}
+
+### Ejemplo 4: next
+
+for (nombre in nombres) {
+  if (nombre == "Juan") {
+    next
+  } else {
+    print(nombre)
+  }
+}
+
+## while ----
+
+velocidad <- 0
+
+while (velocidad <= 60) {
+  print(paste("Voy a", velocidad, "km/h"))
+  velocidad <- velocidad + 5
+} 
+
+accion <- "d"
+velocidad <- 30
+
+if (accion == "a") {
+  # Acelerar
+  while (velocidad <= 60) {
+    print(paste("Acelero. Voy a", velocidad, "km/h"))
+    velocidad <- velocidad + 5
+  } 
+} else if (accion == "d") {
+  # Desacelerar
+  while (velocidad >= 0) {
+    print(paste("Desacelero Voy a", velocidad, "km/h"))
+    velocidad <- velocidad - 5
+  }
+}
+
