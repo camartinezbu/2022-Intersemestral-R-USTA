@@ -14,3 +14,6 @@ El siguiente es el cronograma propuesto para el curso, que podrá estar sujeto a
 | Módulo 4: Visualización de datos (30h) | 13 de julio | 27 de julio | Lunes a Viernes <br> de 6 a 9 pm. |
 | Módulo 5: Presentación del proyecto y evaluación (10h) | 28 de julio | 30 de julio | Lunes a Viernes <br> de 6 a 10 pm. |
 
+## Fuentes de datos utilizadas
+
+- Clase 3: [Complete Pokémon Dataset](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420)
