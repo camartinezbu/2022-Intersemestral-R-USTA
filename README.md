@@ -17,3 +17,4 @@ El siguiente es el cronograma propuesto para el curso, que podrá estar sujeto a
 ## Fuentes de datos utilizadas
 
 - Clase 3: [Complete Pokémon Dataset](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420)
+- Clase 4: [Lego Catalog Database](https://rebrickable.com/downloads/)
