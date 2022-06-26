@@ -1,5 +1,5 @@
-# Clase 2 - 22 de junio de 2022
-# Módulo 1: Rudimentos de R
+# Clase 3 - 23 de junio de 2022
+# Módulo 2: Tidyverse
 
 # install.packages("tidyverse")
 library(tidyverse)
@@ -9,10 +9,10 @@ getwd()
 setwd("../")
 
 # Cargando una base de datos en formato csv: Kaggle ----
-pokemon <- read_csv("Módulo 1: Rudimentos de R/Datos/pokedex_(Update_04.21).csv")
+pokemon <- read_csv("Módulo 2 Tidyverse /Datos/Pokemon/pokedex_(Update_04.21).csv")
 
 # Si quiero definir manualmente el tipo de columna
-# pokemon <- read_csv("Módulo 1: Rudimentos de R/Datos/pokedex_(Update_04.21).csv",
+# pokemon <- read_csv("Módulo 2 Tidyverse /Datos/Pokemon/pokedex_(Update_04.21).csv",
 #                     col_types = cols(pokedex_number = col_character(),
 #                                      generation = col_character()))
 
@@ -162,15 +162,5 @@ library(ggplot2)
 # Geometrias: Cómo lo voy a pintar
 # Coordenadas: Cómo van a estar los ejes del gráfico
 # Stats, themes...
-
-
-
-
-# Unir distintos dataframes: binds y joins ----
-
-## Bind ----
-
-
-## Joins: left_join, right_join, inner_join, full_join ----
 
 
