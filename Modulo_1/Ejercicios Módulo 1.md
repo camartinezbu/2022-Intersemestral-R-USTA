@@ -10,17 +10,17 @@ Cada punto tendrá un puntaje de 1. Para la calificación sólo se tendrá en cu
 
 Responda las siguientes preguntas:
 
-a. ¿Cuál es la principal diferencia entre los vectores creados con la función `c()` y las listas creadas con la función `list()`?.
+a. ¿Cuál es la principal diferencia entre los vectores creados con la función `c()` y las listas creadas con la función `list()`?. <br>
 b. Suponga que tiene una lista de n elementos llamada `mi_lista`. ¿Cuál es la diferencia entre ejecutar `mi_lista[0]` y `mi_lista[[0]]`?
 
 ## Punto 2. Extracción de elementos
 
 Teniendo en cuenta la matriz descrita en el siguiente bloque de código, escriba los comandos para extraer:
 
-a. La segunda columna únicamente.
-b. La tercera fila únicamente.
-c. De la fila 3 a la fila 7.
-d. Las columnas 2 a 4 de las filas 1 y 2
+a. La segunda columna únicamente.<br>
+b. La tercera fila únicamente.<br>
+c. De la fila 3 a la fila 7.<br>
+d. Las columnas 2 a 4 de las filas 1 y 2.
 
 ```r
 matriz <- matrix(rep(1:7, 4), ncol = 4, nrow = 7, byrow = TRUE)
