@@ -8,7 +8,7 @@ El siguiente es el cronograma propuesto para el curso, que podrá estar sujeto a
 
 | Estructura del curso | Fecha de inicio | Fecha de terminación | Horario | Ejercicios |
 | ---- | ----- | ----- | ---- | ---- |
-| Módulo 1: Rudimentos de R (5h) | 21 de junio | 22 de junio | Lunes a Viernes <br> de 6 a 9 pm. | [Enlace](https://github.com/camartinezbu/2022-Intersemestral-R-USTA/blob/main/Modulo_1/Ejercicios%20Módulo%201.md)
+| Módulo 1: Rudimentos de R (5h) | 21 de junio | 22 de junio | Lunes a Viernes <br> de 6 a 9 pm. | [Enlace](https://github.com/camartinezbu/2022-Intersemestral-R-USTA/blob/main/Modulo_1/Ejercicios_Modulo_1.md)
 | Módulo 2: Tidyverse (15h) | 23 de junio | 30 de junio | Lunes a Viernes <br> de 6 a 9 pm. | *TBD*
 | Módulo 3: Análisis estadístico (20h) | 1 de julio | 12 de julio | Lunes a Viernes <br> de 6 a 9 pm. | *TBD*
 | Módulo 4: Visualización de datos (30h) | 13 de julio | 27 de julio | Lunes a Viernes <br> de 6 a 9 pm. | *TBD*
