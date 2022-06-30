@@ -18,3 +18,4 @@ El siguiente es el cronograma propuesto para el curso, que podrá estar sujeto a
 
 - Clase 3: [Complete Pokémon Dataset](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420)
 - Clase 4: [Lego Catalog Database](https://rebrickable.com/downloads/)
+- Clase 5: [Casos positivos de Covid-19 en Colombia](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data)
