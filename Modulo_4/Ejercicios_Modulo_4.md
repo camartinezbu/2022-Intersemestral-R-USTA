@@ -1,4 +1,4 @@
-# Ejercicios Módulo 3
+# Ejercicios Módulo 4
 
 Los siguientes ejercicios corresponden al Módulo 4 de Visualización de datos y su calificación equivale al 45% de la calificación de talleres.
 
@@ -8,7 +8,7 @@ Cada punto tendrá un puntaje de 1. Para la calificación sólo se tendrá en cu
 
 ## Fuente de datos
 
-Vamos a usar un dataset con el top 2000 de canciones de Spotify entre 2000 y 2019 que pueden descargar del siguiente [enlace](https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price?select=all_csv+sorted.csv). Lea atentamente la descripción de las variables en el link indicado. 
+Vamos a usar un dataset con el top 2000 de canciones de Spotify entre 2000 y 2019 que pueden descargar del siguiente [enlace](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019). Lea atentamente la descripción de las variables en el link indicado. 
 
 Todos los ejercicios deben ser desarrollados usando únicamente las funciones de {ggplot2} salvo que se indique lo contrario. Antes de empezar, cargue el archivo en el entorno de trabajo de R usando la función `read_csv()`.
 
