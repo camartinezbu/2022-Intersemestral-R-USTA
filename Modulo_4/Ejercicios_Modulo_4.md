@@ -24,4 +24,4 @@ Elabore un boxplot con la variable `mode` en el eje x y la variable `energy` en 
 
 ## Punto 3. Composición con Patchwork
 
-Usando el paquete {patchwork}, construya una salida gráfica con los 4 gráficos anteriores de tal modo que aparezcan uno al lado del otro.
+Usando el paquete {patchwork}, construya una salida gráfica con los 2 gráficos anteriores de tal modo que aparezcan uno al lado del otro.
